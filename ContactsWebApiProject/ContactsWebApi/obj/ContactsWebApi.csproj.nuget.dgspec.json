@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Turab\\Documents\\GitHub\\net-5-api-httpverbs-kullanimi-kemiksizt\\ContactsWebApi\\ContactsWebApi\\ContactsWebApi.csproj": {}
+    "C:\\Users\\Turab\\Documents\\GitHub\\net-5-api-httpverbs-kullanimi-kemiksizt\\ContactsWebApiProject\\ContactsWebApi\\ContactsWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Turab\\Documents\\GitHub\\net-5-api-httpverbs-kullanimi-kemiksizt\\ContactsWebApi\\ContactsWebApi\\ContactsWebApi.csproj": {
+    "C:\\Users\\Turab\\Documents\\GitHub\\net-5-api-httpverbs-kullanimi-kemiksizt\\ContactsWebApiProject\\ContactsWebApi\\ContactsWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Turab\\Documents\\GitHub\\net-5-api-httpverbs-kullanimi-kemiksizt\\ContactsWebApi\\ContactsWebApi\\ContactsWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Turab\\Documents\\GitHub\\net-5-api-httpverbs-kullanimi-kemiksizt\\ContactsWebApiProject\\ContactsWebApi\\ContactsWebApi.csproj",
         "projectName": "ContactsWebApi",
-        "projectPath": "C:\\Users\\Turab\\Documents\\GitHub\\net-5-api-httpverbs-kullanimi-kemiksizt\\ContactsWebApi\\ContactsWebApi\\ContactsWebApi.csproj",
+        "projectPath": "C:\\Users\\Turab\\Documents\\GitHub\\net-5-api-httpverbs-kullanimi-kemiksizt\\ContactsWebApiProject\\ContactsWebApi\\ContactsWebApi.csproj",
         "packagesPath": "C:\\Users\\Turab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Turab\\Documents\\GitHub\\net-5-api-httpverbs-kullanimi-kemiksizt\\ContactsWebApi\\ContactsWebApi\\obj\\",
+        "outputPath": "C:\\Users\\Turab\\Documents\\GitHub\\net-5-api-httpverbs-kullanimi-kemiksizt\\ContactsWebApiProject\\ContactsWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Turab\\AppData\\Roaming\\NuGet\\NuGet.Config"
